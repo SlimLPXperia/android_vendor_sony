@@ -40,6 +40,7 @@ PRODUCT_COPY_FILES += \
         vendor/sony/montblanc-common/proprietary/bin/ste-adm-test:system/bin/ste-adm-test \
         vendor/sony/montblanc-common/proprietary/bin/ste_omxil_test:system/bin/ste_omxil_test \
         vendor/sony/montblanc-common/proprietary/bin/stercd:system/bin/stercd \
+        vendor/sony/montblanc-common/proprietary/bin/sysinit:system/bin/sysinit \
         vendor/sony/montblanc-common/proprietary/bin/suntrold:system/bin/suntrold \
         vendor/sony/montblanc-common/proprietary/bin/tad:system/bin/tad \
         vendor/sony/montblanc-common/proprietary/bin/taimport:system/bin/taimport \
@@ -80,6 +81,7 @@ PRODUCT_COPY_FILES += \
         vendor/sony/montblanc-common/proprietary/etc/firmware/wsm_11.bin:system/etc/firmware/wsm_11.bin \
         vendor/sony/montblanc-common/proprietary/etc/firmware/wsm_20.bin:system/etc/firmware/wsm_20.bin \
         vendor/sony/montblanc-common/proprietary/etc/firmware/wsm_22.bin:system/etc/firmware/wsm_22.bin \
+        vendor/sony/montblanc-common/proprietary/etc/init.d/00banner:system/etc/init.d/00banner \
         vendor/sony/montblanc-common/proprietary/etc/LbsConfig.cfg:system/etc/LbsConfig.cfg \
         vendor/sony/montblanc-common/proprietary/etc/LbsLogConfig.cfg:system/etc/LbsLogConfig.cfg \
         vendor/sony/montblanc-common/proprietary/etc/LbsPgpsConfig.cfg:system/etc/LbsPgpsConfig.cfg \

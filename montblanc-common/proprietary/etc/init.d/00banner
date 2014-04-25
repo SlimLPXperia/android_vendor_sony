@@ -1,0 +1,6 @@
+#!/system/bin/sh
+
+echo "=================================================="
+echo "AOSX ROM has been successfully installed :)"
+echo "=================================================="
+
