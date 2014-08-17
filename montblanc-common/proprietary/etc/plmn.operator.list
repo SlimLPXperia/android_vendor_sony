@@ -157,10 +157,21 @@ Header:mcc,mnc,spn,mnn
  0x0602, 0x01, "EGY MobiNiL", "MobiNiL" /* EGY */
  0x0602, 0x03, "etisalat", "etisalat" /* EGY */
  0x0602, 0x02, "vodafone EG", "voda EG" /* EGY */
- 0x0214, 0x03, "Orange", "Orange" /* ESP */
- 0x0214, 0x07, "movistar", "movistar" /* ESP */
  0x0214, 0x01, "vodafone ES", "voda ES" /* ESP */
+ 0x0214, 0x03, "Orange", "Orange" /* ESP */
  0x0214, 0x04, "Yoigo", "YOIGO" /* ESP */
+ 0x0214, 0x05, "Tuenti", "Tuenti" /* ESP */
+ 0x0214, 0x07, "movistar", "movistar" /* ESP */
+ 0x0214, 0x08, "Euskaltel", "Euskaltel" /* ESP */
+ 0x0214, 0x15, "BT", "BT" /* ESP */
+ 0x0214, 0x16, "TeleCable", "TeleCable" /* ESP */
+ 0x0214, 0x17, "R", "R" /* ESP */
+ 0x0214, 0x18, "ono", "ONO" /* ESP */
+ 0x0214, 0x19, "Simyo", "Simyo" /* ESP */
+ 0x0214, 0x21, "Jazztel", "Jazztel" /* ESP */
+ 0x0214, 0x22, "DigiMobil", "DigiMobil" /* ESP */
+ 0x0214, 0x23, "Barablu", "Barablu" /* ESP */
+ 0x0214, 0x32, "Tuenti", "Tuenti" /* ESP */
  0x0248, 0x01, "EE EMT", "EMT" /* EST */
  0x0248, 0x02, "EE elisa", "elisa" /* EST */
  0x0248, 0x03, "EE TELE2", "TELE2" /* EST */
