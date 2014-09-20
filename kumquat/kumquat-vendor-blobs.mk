@@ -25,7 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/kumquat/proprietary/etc/firmware/ttsp_fw.hex:system/etc/firmware/ttsp_fw.hex \
     vendor/sony/kumquat/proprietary/etc/permissions/com.sonyericsson.illumination.xml:system/etc/permissions/com.sonyericsson.illumination.xml \
     vendor/sony/kumquat/proprietary/framework/com.sonyericsson.illumination.jar:system/framework/com.sonyericsson.illumination.jar \
-    vendor/sony/kumquat/proprietary/lib/hw/lights.st-ericsson.so:system/lib/hw/lights.st-ericsson.so \
+    vendor/sony/kumquat/proprietary/lib/hw/lights.st-ericsson.so:system/lib/hw/lights.montblanc.so \
     vendor/sony/kumquat/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/sony/kumquat/proprietary/lib/ste_omxcomponents/libste_camera.so:system/lib/ste_omxcomponents/libste_camera.so \
     vendor/sony/kumquat/proprietary/lib/ste_omxcomponents/libste_ext_camera.so:system/lib/ste_omxcomponents/libste_ext_camera.so \
